@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently working on **Android**
 
 - 💬 Ask me about **Flutter / vue**
 
