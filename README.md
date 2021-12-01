@@ -48,6 +48,9 @@
  </p>
 
 <br>
+<p align="center"><a align="center" href="https://app.daily.dev/zinary"><img src="https://api.daily.dev/devcards/3df3983ef7fd425f9501b63a53722066.png?r=zwv" width="300" alt="Ram Kumar's Dev Card"/></a></p>
+<br>
+
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zinary" alt="zinary"/> </p>  </p>
 <br>
 <p align="center">
