@@ -33,30 +33,24 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/zinary" alt="Github Metrics">
-  
- <br>
+
   
  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=zinary" alt="Github Streak Stats">
- 
+ <br>
+ <img width="500" src="https://metrics.lecoq.io/zinary" alt="Github Metrics">
+  
+ <br>
 <p align="center">
   <img width="500" alt="zinary's github stats" src="https://github-readme-stats.vercel.app/api?username=zinary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
   <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinary&layout=compact&theme=tokyonight&langs_count=10">
  </p>
 
-<br>
-<p align="center"><a align="center" href="https://app.daily.dev/zinary"><img src="https://api.daily.dev/devcards/3df3983ef7fd425f9501b63a53722066.png?r=zwv" width="300" alt="Ram Kumar's Dev Card"/></a></p>
-<br>
-
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zinary" alt="zinary"/> </p>  </p>
-<br>
-<p align="center">
- <a target="_blank" align="center" href=https://github.com/zinary>
-  <img src=https://img.shields.io/github/followers/zinary?label=follow%20me&style=social />
-  &nbsp;
-</a>
+<p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zinary" alt="zinary"/> </p>  
+ 
+ 
 </p>
