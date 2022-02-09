@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Kumar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 <p  align="center">
  I’m currently working on Android App Development
 
