@@ -38,7 +38,8 @@
 <p align="center">
 
 
-  
+
+
  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=zinary" alt="Github Streak Stats">
  <br>
  <img width="500" src="https://metrics.lecoq.io/zinary" alt="Github Metrics">
@@ -50,6 +51,8 @@
  </p>
 
 <p> 
+ 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zinary&theme=dracula&hide_border=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zinary" alt="zinary"/> </p>  
  
  
