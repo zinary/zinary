@@ -14,11 +14,7 @@
 <a href="https://mailhide.io/e/mNwyVMy0" onclick="popup=window.open('https://mailhide.io/e/mNwyVMy0','mailhidepopup','width=580,height=635'); return false;" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="r.....@gmail.com" height="30" width="40" /></a>
 </p>
  <br>
- <p align="center">
- <a  href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://spotify-now-playing-zinary.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
- </p>
+
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg alt=kotlin width="30" height="30"/>
@@ -38,10 +34,12 @@
 
 <br>
 
+ <p align="center">
+ <a  href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+    <img src="https://spotify-now-playing-zinary.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+ </p>
 <p align="center">
-
-
-
 
  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=zinary" alt="Github Streak Stats">
  <br>
