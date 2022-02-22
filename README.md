@@ -35,7 +35,7 @@
 <br>
 
  <p align="center">
- <a  href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+ <a  href="https://spotify-now-playing-zinary.vercel.app/now-playing?open">
     <img src="https://spotify-now-playing-zinary.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
  </p>
