@@ -35,17 +35,18 @@
 <br>
 
  <p align="center">
+
  <a  href="https://spotify-now-playing-zinary.vercel.app/now-playing?open">
     <img src="https://spotify-now-playing-zinary.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+ 
  </p>
 <p align="center">
 
  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=zinary" alt="Github Streak Stats">
  <br>
- <img width="500" src="https://metrics.lecoq.io/zinary" alt="Github Metrics">
   
- <br>
+ 
 <p align="center">
   <img width="500" alt="zinary's github stats" src="https://github-readme-stats.vercel.app/api?username=zinary&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
   
